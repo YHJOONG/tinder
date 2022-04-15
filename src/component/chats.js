@@ -4,7 +4,7 @@ import '../css/Chat.css';
 
 function Chats(){
     return(
-        <div className="chats">
+        <div className="Chats">
             <Chat
                 name="Mark"
                 message = "hello"

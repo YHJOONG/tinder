@@ -5,7 +5,7 @@ import { BrowserRouter as Router, useRoutes,} from 'react-router-dom';
 import Header from './component/Header';
 import TinderCards from './component/TinderCards';
 import SwipeButtons from './component/SwipeButtons';
-import Chats from './component/chats';
+import Chats from './component/Chats';
 
 function AppHeaders(){
   const routes = useRoutes(
